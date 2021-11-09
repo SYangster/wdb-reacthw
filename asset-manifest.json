@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wdb-reacthw/static/css/main.b9f5cd9c.chunk.css",
+    "main.js": "/wdb-reacthw/static/js/main.138198fd.chunk.js",
+    "main.js.map": "/wdb-reacthw/static/js/main.138198fd.chunk.js.map",
+    "runtime-main.js": "/wdb-reacthw/static/js/runtime-main.6e2c5cf2.js",
+    "runtime-main.js.map": "/wdb-reacthw/static/js/runtime-main.6e2c5cf2.js.map",
+    "static/css/2.1dd1e755.chunk.css": "/wdb-reacthw/static/css/2.1dd1e755.chunk.css",
+    "static/js/2.11e8d671.chunk.js": "/wdb-reacthw/static/js/2.11e8d671.chunk.js",
+    "static/js/2.11e8d671.chunk.js.map": "/wdb-reacthw/static/js/2.11e8d671.chunk.js.map",
+    "static/js/3.44be0eca.chunk.js": "/wdb-reacthw/static/js/3.44be0eca.chunk.js",
+    "static/js/3.44be0eca.chunk.js.map": "/wdb-reacthw/static/js/3.44be0eca.chunk.js.map",
+    "index.html": "/wdb-reacthw/index.html",
+    "static/css/2.1dd1e755.chunk.css.map": "/wdb-reacthw/static/css/2.1dd1e755.chunk.css.map",
+    "static/css/main.b9f5cd9c.chunk.css.map": "/wdb-reacthw/static/css/main.b9f5cd9c.chunk.css.map",
+    "static/js/2.11e8d671.chunk.js.LICENSE.txt": "/wdb-reacthw/static/js/2.11e8d671.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e2c5cf2.js",
+    "static/css/2.1dd1e755.chunk.css",
+    "static/js/2.11e8d671.chunk.js",
+    "static/css/main.b9f5cd9c.chunk.css",
+    "static/js/main.138198fd.chunk.js"
+  ]
+}
